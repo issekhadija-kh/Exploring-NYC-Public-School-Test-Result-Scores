@@ -5,5 +5,5 @@ This study analyzes SAT performance data from new-york city public schools to id
 ## Objective
 To perform exploratory data analysis on NYC high school data to answer three questions:
    1. The best math results are at least 80% of the *maximum possible score of 800* for math, which NYC school are best for math?
-   2. What are the top 10 performing schools based on combined SAT ("total_SAT" being the sum of math, reading, and writing scores) scores?
+   2. What are the top 10 performing schools based on combined SAT ("total_SAT" being the sum of `'math'`, `'reading'`, and `'writing'` scores) scores?
    3. Which `'borough'` has the highest standard deviation in combined SAT scores?
